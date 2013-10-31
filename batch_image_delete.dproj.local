@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.11.26 14:30:13.609.pas,C:\Documents and Settings\Administrator.SOSMUHASEBE\My Documents\RAD Studio\Projects\Unit2.pas=H:\shareware 2009\batch image delete\Unit2.pas</Transaction>
+    <Transaction>2009.11.26 14:30:13.609.dfm,C:\Documents and Settings\Administrator.SOSMUHASEBE\My Documents\RAD Studio\Projects\Unit2.dfm=H:\shareware 2009\batch image delete\Unit2.dfm</Transaction>
+    <Transaction>2009.11.26 14:30:30.171.dproj,C:\Documents and Settings\Administrator.SOSMUHASEBE\My Documents\RAD Studio\Projects\Project2.dproj=H:\shareware 2009\batch image delete\batch_image_delete.dproj</Transaction>
+    <Transaction>2009.11.26 16:35:27.609.pas,H:\shareware 2009\batch image delete\Unit3.pas=H:\shareware 2009\batch image delete\PicsLib.pas</Transaction>
+  </Transactions>
+</BorlandProject>
